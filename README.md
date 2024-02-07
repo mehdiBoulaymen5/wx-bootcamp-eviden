@@ -3,13 +3,11 @@
 ## Agenda
 
 ### Day 1:
-
-![img.png](images/day_one.png)
-
+![img.png](img.png)
 
 ### Day 2:
 
-![img.png](images/day_two.png)
+![img_1.png](img_1.png)
 
 
 ### Hands-on LABs Level 1
